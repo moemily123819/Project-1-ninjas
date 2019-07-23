@@ -44,9 +44,11 @@ dates to vs. random sample sets of 12 non keynote dates were selected for the T 
 
 Five trials with five different random sets for each test.  Comparison was made to the closing prices at month-end.  
 
-The results :
+The results of the 5 trials :
 
-![1563848122442](C:\Users\Emily\AppData\Roaming\Typora\typora-user-images\1563848122442.png)
+<img src="images/ttests.PNG"     alt="ttests"     style="float: left; margin-right: 10px;" />
+
+
 
 ### Technical aspect :
 
